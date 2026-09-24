@@ -1,25 +1,21 @@
-<!-- ============================================================
-  HOW TO USE: search for [ ] brackets and replace with your details.
-  Delete any section you do not want. Push as README.md in the repo
-  named exactly PiyushNagendra-IN (your username) to show on profile.
-============================================================ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=210&section=header&text=Piyush%20Nagendra&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Diploma%20in%20Computer%20Science%20%26%20Engineering%20%7C%20RGPV%20Bhopal&descSize=18&descAlignY=60" alt="Header"/>
+<h1>Piyush Nagendra</h1>
 
-<a href="https://github.com/PiyushNagendra-IN">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=C+%7C+Python+%7C+Data+Structures+%7C+Algorithms;Diploma+CSE+%C2%B7+Semester+III+%C2%B7+RGPV;Learning+by+building+real+projects" alt="Typing animation"/>
-</a>
+<h3>Diploma in Computer Science &amp; Engineering</h3>
 
-<br/>
+<p>Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Diploma Wing, Bhopal</p>
 
-![RGPV](https://img.shields.io/badge/RGPV-Diploma%20Wing-1e3a8a?style=for-the-badge)
-![Branch](https://img.shields.io/badge/Branch-CSE%20(C04)-0f766e?style=for-the-badge)
-![Semester](https://img.shields.io/badge/Semester-III-b45309?style=for-the-badge)
-![Scheme](https://img.shields.io/badge/Scheme-OCBC%202023-7c3aed?style=for-the-badge)
+<p><i>C &nbsp;·&nbsp; Python &nbsp;·&nbsp; Data Structures &nbsp;·&nbsp; Algorithms</i></p>
 
-<img src="https://komarev.com/ghpvc/?username=PiyushNagendra-IN&label=Profile%20Views&color=1e3a8a&style=flat-square" alt="Views"/>
+<img src="https://img.shields.io/badge/RGPV-Diploma%20Wing-1e3a8a?style=for-the-badge" alt="RGPV Diploma Wing"/>
+<img src="https://img.shields.io/badge/Branch-CSE%20(C04)-0f766e?style=for-the-badge" alt="Branch CSE C04"/>
+<img src="https://img.shields.io/badge/Semester-III-b45309?style=for-the-badge" alt="Semester III"/>
+<img src="https://img.shields.io/badge/Scheme-OCBC%202023-7c3aed?style=for-the-badge" alt="Scheme OCBC 2023"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=PiyushNagendra-IN&label=Profile%20Views&color=1e3a8a&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -35,14 +31,19 @@ I am a **Diploma in Computer Science & Engineering** student at **Rajiv Gandhi P
 
 ## 🎓 Education
 
-| | |
+| Field | Details |
 |---|---|
 | **University** | Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Diploma Wing, Bhopal |
 | **Programme** | Diploma in Computer Science & Engineering (Branch Code C04) |
 | **Scheme** | OCBC (Outcome-based, AICTE curriculum), implemented from July 2023 |
-| **Institute** | [Your Institute / Polytechnic Name, City] |
-| **Session** | [20XX – 20XX] |
-| **Current Semester** | III &nbsp;·&nbsp; **Previous result:** [XX.XX %] |
+| **Current Semester** | III |
+
+<!--
+  To add more rows, paste them into the table above, for example:
+  | **Institute** | Your Polytechnic Name, City |
+  | **Session** | 2024 – 2027 |
+  | **Previous Result** | 00.00 % |
+-->
 
 ---
 
@@ -103,25 +104,35 @@ flowchart LR
 
 **Semester III syllabus (RGPV)**
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data_Structures-0f766e?style=for-the-badge)
-![Algorithms](https://img.shields.io/badge/Algorithms-7c3aed?style=for-the-badge)
-![8085](https://img.shields.io/badge/8085_Assembly-b45309?style=for-the-badge)
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Data_Structures-0f766e?style=for-the-badge" alt="Data Structures"/>
+<img src="https://img.shields.io/badge/Algorithms-7c3aed?style=for-the-badge" alt="Algorithms"/>
+<img src="https://img.shields.io/badge/8085_Assembly-b45309?style=for-the-badge" alt="8085 Assembly"/>
 
 **Web and tools (self-learning)**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,git,github,vscode&perline=7" alt="Web and tools"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 
 **Exploring next**
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,tailwind,mongodb,docker&perline=5" alt="Exploring"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 
 ---
 
 ## 🧪 Practical Tracker (Semester III)
 
-Tick the boxes as you complete each practical and push the code to a repo.
+Updated as I complete each practical and push the code to a repository.
 
 <details>
 <summary><b>Computer Programming (C): 12 practicals</b></summary>
@@ -182,11 +193,9 @@ Tick the boxes as you complete each practical and push the code to a repo.
 
 | Project | What it does | Tech | Link |
 |---|---|---|---|
-| **Digital Workshop** | Website for Digital Workshop & Electronic Components, Balaghat | [HTML, CSS, JS, PHP] | [Live site](https://digitalworkshop.kesug.com) |
-| **[Student Record System]** | [Add, search and delete records using files] | C | [Code](https://github.com/PiyushNagendra-IN/REPO) |
-| **[Data Structure Toolkit]** | [Stack, queue and linked list programs in one menu] | C | [Code](https://github.com/PiyushNagendra-IN/REPO) |
-| **[Roll Number Validator]** | [Checks RGPV roll number and extracts branch and college code with regex] | Python | [Code](https://github.com/PiyushNagendra-IN/REPO) |
-| **[8085 Programs]** | [Addition, data transfer, comparison and loops in GNUSim8085] | Assembly | [Code](https://github.com/PiyushNagendra-IN/REPO) |
+| **Digital Workshop** | Website for Digital Workshop & Electronic Components, Balaghat | HTML, CSS, JS, PHP | [Live site](https://digitalworkshop.kesug.com) |
+
+More projects will be added here as I finish each set of practicals.
 
 <div align="center">
   <a href="https://digitalworkshop.kesug.com">
@@ -196,20 +205,11 @@ Tick the boxes as you complete each practical and push the code to a repo.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PiyushNagendra-IN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushNagendra-IN&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=PiyushNagendra-IN&theme=tokyonight&hide_border=true" alt="Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PiyushNagendra-IN&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=PiyushNagendra-IN&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>
 
@@ -230,11 +230,11 @@ Tick the boxes as you complete each practical and push the code to a repo.
 <div align="center">
 
 <a href="https://digitalworkshop.kesug.com"><img src="https://img.shields.io/badge/Website-1e3a8a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer" alt="Footer"/>
+<a href="https://github.com/PiyushNagendra-IN"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<!--
+  Add these when you are ready (replace the placeholders):
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+-->
 
 </div>
